@@ -1,0 +1,2 @@
+collectionviewcell-pangesturerecognizer
+=======================================
